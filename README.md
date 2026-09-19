@@ -9,3 +9,5 @@ Obtain the library through the authorized WorldQuant distribution channel and pl
 in the local `ace/` directory.
 
 The ACE API library itself is not included in this repository.
+You can download it on official WorldQuant website: https://platform.worldquantbrain.com/learn/documentation/brain-api/documentation-ace-api-library-gold 
+
