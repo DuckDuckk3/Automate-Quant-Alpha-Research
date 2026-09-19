@@ -2,3 +2,8 @@
 .env
 __pycache__/
 *.pyc
+
+ace/
+data/
+*.db
+*.sqlite
