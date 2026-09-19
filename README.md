@@ -20,8 +20,8 @@ You can download it on official WorldQuant website: https://platform.worldquantb
 
 ## Quick Start
 ```
-python -m venv .venv
+py -m venv .venv
 .venv\Scripts\activate
-python -m pip install --upgrade pip
+py -m pip install --upgrade pip
 pip install -r ace\requirements.txt
 ```
