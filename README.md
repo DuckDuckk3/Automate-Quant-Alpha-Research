@@ -9,7 +9,6 @@ Obtain the library through the authorized WorldQuant distribution channel and pl
 in the local `ace/` directory.
 ```
 ace/
-│
 ├── ace_lib.py
 ├── helpful_functions.py
 ├── how_to_use.ipynb
